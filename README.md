@@ -1,10 +1,11 @@
 Olá, eu sou o Kaique Linhares aka <strong>Rinyaresu</strong>
 
 <div>
-  <a href="https://github.com/rinyaresu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rinyaresu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinyaresu&layout=compact&langs_count=7&theme=dark"/>
+   <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Kai-Ruby"  src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img align="center" alt="Kai-C"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
