@@ -2,8 +2,8 @@ Olá, eu sou o Kaique Linhares aka <strong>Rinyaresu</strong>
 
  <div>
   <a href="https://github.com/rinyaresu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rinyaresu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinyaresu&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rinyaresu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinyaresu&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
