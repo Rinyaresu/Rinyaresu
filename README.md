@@ -1,10 +1,8 @@
 Olá, eu sou o Kaique Linhares aka <strong>Rinyaresu</strong>
 
-```text
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-```
 
 <div style="display: inline_block"><br>
   <a href="https://rubyonrails.org/" target="_blank"><img align="center" alt="Kai-Rails"  src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
