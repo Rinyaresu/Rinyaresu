@@ -1,9 +1,7 @@
 Olá, eu sou o Kaique Linhares aka <strong>Rinyaresu</strong>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -18,20 +16,8 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Ruby** 
 
-```text
-Ruby                     19 repos            ██████████████████░░░░░░░   73.08% 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
-
-```
-
-
-
- Last Updated on 29/05/2022 06:50:20 UTC
+ Last Updated on 29/05/2022 06:55:24 UTC
 <!--END_SECTION:waka-->
 
 <div style="display: inline_block"><br>
