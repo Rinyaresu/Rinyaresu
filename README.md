@@ -1,24 +1,23 @@
 Olá, eu sou o Kaique Linhares aka <strong>Rinyaresu</strong>
 
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 528 Contributions in the Year 2022
- > 
-> 📦 84.1 kB Used in GitHub's Storage 
- > 
+ >
+> 📦 84.1 kB Used in GitHub's Storage
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
+ >
+> 📜 19 Public Repositories
+ >
 > 🔑 11 Private Repositories  
- > 
-**I'm an Early 🐤** 
+ >
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning    114 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.51% 
@@ -27,7 +26,8 @@ Olá, eu sou o Kaique Linhares aka <strong>Rinyaresu</strong>
 🌙 Night      81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.15%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
 Monday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
@@ -56,7 +56,7 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Ruby** 
+**I Mostly Code in Ruby**
 
 ```text
 Ruby                     19 repos            ██████████████████░░░░░░░   73.08% 
@@ -67,15 +67,12 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Rinyaresu/Rinyaresu/main/charts/bar_graph.png) 
-
+![Chart not found](https://raw.githubusercontent.com/Rinyaresu/Rinyaresu/main/charts/bar_graph.png)
 
  Last Updated on 29/05/2022 06:41:07 UTC
 <!--END_SECTION:waka-->
-```
 
 <div style="display: inline_block"><br>
   <a href="https://rubyonrails.org/" target="_blank"><img align="center" alt="Kai-Rails"  src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
