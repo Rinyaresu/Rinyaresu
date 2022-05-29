@@ -1,6 +1,6 @@
 Olá, eu sou o Kaique Linhares aka <strong>Rinyaresu</strong>
 
-```text
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -38,7 +38,6 @@ Friday       83 commits     ███░░░░░░░░░░░░░░�
 Saturday     23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.73% 
 Sunday       20 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25%
 
-```
 
 
 📊 **This Week I Spent My Time On** 
