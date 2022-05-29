@@ -1,11 +1,11 @@
 Olá, eu sou o Kaique Linhares aka <strong>Rinyaresu</strong>
 
- <div>
-  <a href="https://github.com/rinyaresu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rinyaresu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinyaresu&layout=compact&langs_count=8&theme=dark"/>
-</div>
-  
+```text
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+```
+
 <div style="display: inline_block"><br>
   <a href="https://rubyonrails.org/" target="_blank"><img align="center" alt="Kai-Rails"  src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
   <a href="https://www.ruby-lang.org/en/about/" target="_blank"><img align="center" alt="Kai-Ruby"  src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
@@ -16,8 +16,8 @@ Olá, eu sou o Kaique Linhares aka <strong>Rinyaresu</strong>
 </div>
   
 ##
-<div> 
+
+<div>
   <a href="https://www.instagram.com/kaique_sousa15/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kaique-linhares-25a840208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/kaique-linhares-25a840208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
- 
