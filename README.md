@@ -10,7 +10,7 @@ I don't really know how u got here, but I will try to show a little bit about my
 * **University**: [IBMR](https://www.ibmr.br/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2027%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -18,10 +18,14 @@ I don't really know how u got here, but I will try to show a little bit about my
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+ERB                      36 mins             █████████████████░░░░░░░░   68.77% 
+HTML                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.62% 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94% 
+Ruby                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      53 mins             █████████████████████████   100.0%
 
 ```
 
