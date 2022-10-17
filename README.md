@@ -18,12 +18,10 @@ I don't really know how u got here, but I will try to show a little bit about my
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-YAML                     17 mins             █████████████████░░░░░░░░   67.61% 
-Docker                   6 mins              ███████░░░░░░░░░░░░░░░░░░   27.56% 
-Ruby                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.82%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
