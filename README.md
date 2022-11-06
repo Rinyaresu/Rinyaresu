@@ -10,7 +10,7 @@ I don't really know how u got here, but I will try to show a little bit about my
 * **University**: [IBMR](https://www.ibmr.br/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2051%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -18,14 +18,12 @@ I don't really know how u got here, but I will try to show a little bit about my
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Ruby                     10 hrs 22 mins      ██████████████████████░░░   89.5% 
-ERB                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.29% 
-zsh                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67% 
-Lua                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+Ruby                     12 hrs 32 mins      ████████████████████████░   96.09% 
+ERB                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.71% 
+Lua                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
 
 💻 Operating System: 
-Linux                    11 hrs 35 mins      █████████████████████████   100.0%
+Linux                    13 hrs 2 mins       █████████████████████████   100.0%
 
 ```
 
