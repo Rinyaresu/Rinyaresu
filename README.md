@@ -12,23 +12,6 @@ I don't really know how u got here, but I will try to show a little bit about my
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%208%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Ruby                     17 hrs 34 mins      ████████████████████░░░░░   80.53% 
-ERB                      2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.05% 
-JavaScript               38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96% 
-Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
-Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
-
-💻 Operating System: 
-Linux                    21 hrs 50 mins      █████████████████████████   100.0%
-
-```
-
 
 <!--END_SECTION:waka-->
 
