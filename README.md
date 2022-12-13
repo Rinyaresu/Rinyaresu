@@ -12,23 +12,6 @@ I don't really know how u got here, but I will try to show a little bit about my
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2031%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Ruby                     4 hrs 14 mins       ██████████████░░░░░░░░░░░   58.0% 
-YAML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.79% 
-Text                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.51% 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.69% 
-ERB                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.81%
-
-💻 Operating System: 
-Linux                    7 hrs 18 mins       █████████████████████████   100.0%
-
-```
-
 
 <!--END_SECTION:waka-->
 
