@@ -10,7 +10,7 @@ I don't really know how u got here, but I will try to show a little bit about my
 * **University**: [IBMR](https://www.ibmr.br/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%201%20min-blue)
 
 📊 **This Week I Spent My Time On** 
 
