@@ -5,7 +5,7 @@ I don't really know how u got here, but I will try to show a little bit about my
 ### Detailed information
 
 * **Name**: Kaique Linhares
-* **Age**: 18
+* **Age**: 19
 * **Living in**: Rio  de Janeiro - RJ, Brazil
 * **University**: [IBMR](https://www.ibmr.br/)
 
